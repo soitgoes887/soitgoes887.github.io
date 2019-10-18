@@ -1,0 +1,10 @@
+{
+  "simulation": "com.nexmo.domainsservice.simulation.Scenario3",
+  "simulationId": "scenario3",
+  "start": 1571400619179,
+  "description": "",
+  "scenarios": ["Scenario3 Test"],
+  "assertions": [
+
+  ]
+}
