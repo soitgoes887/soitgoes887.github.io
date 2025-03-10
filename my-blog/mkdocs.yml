@@ -1,7 +1,0 @@
-site_name: My Personal Blog
-site_url: https://soitgoes887.github.io
-theme:
-  name: material
-  palette:
-    primary: indigo
-    accent: indigo
