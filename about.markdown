@@ -21,7 +21,6 @@ My professional journey has been focused on bridging the gap between software de
 As a Certified Kubernetes Administrator and Application Developer with a strong networking background (Cisco CCNP), I bring a holistic perspective to solving complex technical challenges in distributed systems.
 
 ## Personal Life
-I live in Surbiton, South West London with my wife and two children. Outside of technology, I'm an avid sci-fi reader who's always looking for the next great novel to dive into. To stay active, I enjoy playing football and basketball with friends, as well as keeping fit with functional training. These activities provide the perfect balance to my technical work and help me maintain perspective and creativity.
-I started this blog to share insights, best practices, and lessons learned throughout my career in cloud and software engineering. Whether you're a seasoned professional or just beginning your journey in tech, I hope you'll find valuable content here that helps you navigate the ever-evolving landscape of cloud technologies.
+I live in Surbiton, South West London with my wife and two children. Outside of technology, I like reading sci-fi, playing football and basketball, as well as keeping fit with functional training. I started this blog to share insights, best practices, and lessons learned throughout my career in cloud and software engineering.
 Feel free to reach out at andrei.nicu@pm.me if you'd like to connect.
 
