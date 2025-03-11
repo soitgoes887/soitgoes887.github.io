@@ -12,7 +12,7 @@ With over a decade of experience in the tech industry, I've specialized in devel
 ## My Expertise
 My professional journey has been focused on bridging the gap between software development and infrastructure, with particular emphasis on:
 
-* Architected multi-cloud testing frameworks for network APIs
+* Designing multi-cloud testing frameworks for network APIs
 * Implementing cloud-native testing strategies
 * Optimizing CI/CD pipelines for faster delivery
 * Creating chaos testing environments to enhance application resiliency
